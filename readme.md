@@ -5,7 +5,7 @@
 
 # Monkchat
 
-Este projeto objetiva o desenvolvimento de uma aplicação WEB para controle de conversas online a ser utilizada pedagogicamente no curso Técnico em Informática.
+Este projeto objetiva o desenvolvimento de uma aplicação WEB para controle de conversas online.
 
 ## STACK
 
